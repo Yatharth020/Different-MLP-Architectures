@@ -36,4 +36,7 @@ __Following steps were followed__:
  ### Input(786) - relu(200) - relu(300) - relu (400) - relu(500) - relu(600) - softmax(10)
  <img src = https://github.com/yatscool007/Different-MLP-Architectures/blob/master/mlp_images/arc3.PNG >
 
-
+## Results 
+<img src = https://github.com/yatscool007/Different-MLP-Architectures/blob/master/mlp_images/res1.PNG>
+<img src = https://github.com/yatscool007/Different-MLP-Architectures/blob/master/mlp_images/res2.PNG>
+<img src = https://github.com/yatscool007/Different-MLP-Architectures/blob/master/mlp_images/res3.PNG>
